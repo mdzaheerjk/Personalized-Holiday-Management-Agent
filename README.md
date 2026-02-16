@@ -1,4 +1,5 @@
 # Personalized-Holiday-Management-Agent
+Holiday Agent is an autonomous multi-agent AI system for travel planning. Instead of hallucinating hotels or schedules, it splits reasoning into phases. It turns vague prompts into detailed itineraries using specialized agents and validates real-time data like hours, prices, and locations before generating accurate travel guides.
 ## 🚀 Project Banner
 
 <p align="center">
